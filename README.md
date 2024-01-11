@@ -1,1 +1,1 @@
-# commitments
+Code used to implement the model and carry out the analysis described in the article "Apology and forgiveness evolve to resolve failures in cooperative agreements" (Martinez-Vaquero et al, Sci. Rep. 5, 10639 (2015)).
